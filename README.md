@@ -1,2 +1,1 @@
-# Litterbin Development
-Twitter @mindharm
+# welcome
